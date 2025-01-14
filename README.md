@@ -1,4 +1,4 @@
-Hello world!
+## This is how to use Git
 
 Step 0. Pull from GH:
 
